@@ -4,6 +4,6 @@
     <meta charset="utf-8">
   </head>
   <body>
-    Aqui vai o código HTML que fará seu site aparecer.
+      <img src="Capturar.PNG">
   </body>
 </html>
