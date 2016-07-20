@@ -3,7 +3,10 @@
     <meta charset="utf-8">
   </head>
   <body>
+      <ul>
+        <li><strong>Home screen</strong></li>
+      </ul>
       <img src="Capturar.PNG">
-      Tela Princical
+      <br>
   </body>
 </html>
